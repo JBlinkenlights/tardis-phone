@@ -7,4 +7,4 @@ I upgraded an ancient telephone with a Raspberry Pi so that it would play clips 
 * https://learn.adafruit.com/playing-sounds-and-using-buttons-with-raspberry-pi
 
 # Defunct Links
-https://www.raspberrypi.org/documentation/linux/usage/scripting.md
+* https://www.raspberrypi.org/documentation/linux/usage/scripting.md
